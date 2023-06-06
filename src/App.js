@@ -116,8 +116,8 @@ function App() {
         <div id='pers1'>
           <div id='u1'>
           <img src={user_2} id='usr'/>
-          <h5>Nattasha Mith<br/>
-          <span>Sydney, USA</span></h5>
+          <h5>Raymond Galario<br/>
+          <span>Sydney, Australia</span></h5>
           </div>
 
           <p>Lorem Ipsum is simply dummy 
@@ -129,8 +129,8 @@ function App() {
         <div id='pers1'>
           <div id='u1'>
           <img src={user_3} id='usr'/>
-          <h5>Nattasha Mith<br/>
-          <span>Sydney, USA</span></h5>
+          <h5>Benny Roll<br/>
+          <span>Sydney, New York</span></h5>
           </div>
 
           <p>Lorem Ipsum is simply dummy 
